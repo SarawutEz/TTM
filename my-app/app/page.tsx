@@ -1,9 +1,7 @@
 import React from 'react'
 
-function page() {
+export default function page() {
   return (
-    <button className="btn btn-xl">Xlarge</button>
+    <div>page</div>
   )
 }
-
-export default page

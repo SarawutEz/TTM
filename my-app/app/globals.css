@@ -2,3 +2,8 @@
 @plugin "daisyui" {
   themes: luxury --default;
 }
+
+.cl-avatarBox {
+  width: 2.4rem;
+  height: 2.4rem;
+}
